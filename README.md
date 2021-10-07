@@ -6,7 +6,7 @@
 
 <img src="https://cdn.discordapp.com/attachments/893627422757502979/895155581315317840/unknown.png" alt="imagem do projeto" />
 
-Desafio: 5 projetos em 5 dias, ministrado pelo Bonieky Lacerda.
+- Projeto 1, Desafio 5 projetos em 5 dias, ministrado pelo Bonieky Lacerda.
 
 <separator></separator>
 
